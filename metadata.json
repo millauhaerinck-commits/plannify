@@ -1,0 +1,7 @@
+{
+  "name": "Plannify - Jouw Slimme Studie-assistent",
+  "description": "Een intelligente planningstool die studenten helpt met het organiseren van toetsen, taken, sport en vrije tijd met automatische herhaalmomenten en persoonlijke feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
